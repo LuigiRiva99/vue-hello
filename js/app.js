@@ -4,8 +4,9 @@ const { createApp } = Vue
 createApp({
   data() {
     return {
-      message: 'Hello World',
+      message: 'Hello VUE',
       titleClass: 'title',
+      image : './img/vue.jpg'
     }
   }
 }).mount('#app')

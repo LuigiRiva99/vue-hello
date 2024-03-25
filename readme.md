@@ -107,7 +107,7 @@ allora avrò:
 
 
 schema:
-![alt text](directive.69c37117.png)
+![alt text](./img/directive.69c37117.png)
 
 
 
